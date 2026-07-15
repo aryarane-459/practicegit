@@ -1,0 +1,1 @@
+printf("enter two number")
